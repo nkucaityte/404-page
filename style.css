@@ -2,9 +2,11 @@ body {
   text-align: center;
   background-color: #0a56ed;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #f333;
 }
 
 h1 {
+  font-size: 9em;
   margin-top: 100px;
   margin-bottom: 20px;
 }
@@ -15,4 +17,5 @@ h2 {
 
 a {
   color: #fff;
+  cursor: wait;
 }
